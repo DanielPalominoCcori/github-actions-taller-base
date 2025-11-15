@@ -26,7 +26,7 @@ jobs:
     steps:
       - name: 1. Descargar el codigo
         uses: action/checkout@v4
-      - name: 2. despliegue
+      - name: 3. despliegue
         run: echo "despliegue exitoso"
 
     
